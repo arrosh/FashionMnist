@@ -1,0 +1,2 @@
+# FashionMnist
+Train a CNN
